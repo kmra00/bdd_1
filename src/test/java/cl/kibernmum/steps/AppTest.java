@@ -1,4 +1,4 @@
-package cl.kibernmum;
+package cl.kibernmum.steps;
 
 import static org.junit.Assert.assertTrue;
 
